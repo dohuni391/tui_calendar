@@ -18,7 +18,7 @@ TUI Calendar is a terminal-based calendar application written in C++. It allows 
 - A C++ compiler (e.g., g++, clang++)
 
 ## Installation and Execution
-Clone project from Git or download proeject file.
+Clone or download project.
 
 ```sh
 cd tui_calendar
