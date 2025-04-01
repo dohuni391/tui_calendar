@@ -3,7 +3,6 @@
 
 #include <string>
 #include <vector>
-#include <optional>
 #include "Date.hpp"
 #include "RecurrenceRule.hpp"
 

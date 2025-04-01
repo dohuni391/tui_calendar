@@ -4,7 +4,8 @@
 #include <array>
 #include <vector>
 #include <string>
-#include <sstream>
+#include <unordered_map>
+#include <sstream> 
 #include "Date.hpp"
 
 class RecurrenceRule {
